@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Chat
-//
-//  Created by Александр on 04/06/2022.
-//
-
 import UIKit
 
 @main
