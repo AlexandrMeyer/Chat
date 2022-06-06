@@ -7,5 +7,4 @@ extension UIStackView {
         self.axis = axis
         self.spacing = spacing
     }
-    
 }
