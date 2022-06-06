@@ -24,6 +24,7 @@
 		B5BC4FF7284CD19F00424F5E /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5BC4FF6284CD19F00424F5E /* LoginViewController.swift */; };
 		B5BC4FF9284CD8C000424F5E /* SetupProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5BC4FF8284CD8C000424F5E /* SetupProfileViewController.swift */; };
 		B5BC4FFB284CD8DD00424F5E /* AddPhotoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5BC4FFA284CD8DD00424F5E /* AddPhotoView.swift */; };
+		B5BC4FFD284E3F4400424F5E /* SegmentedControl + Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5BC4FFC284E3F4400424F5E /* SegmentedControl + Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,7 @@
 		B5BC4FF6284CD19F00424F5E /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		B5BC4FF8284CD8C000424F5E /* SetupProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetupProfileViewController.swift; sourceTree = "<group>"; };
 		B5BC4FFA284CD8DD00424F5E /* AddPhotoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddPhotoView.swift; sourceTree = "<group>"; };
+		B5BC4FFC284E3F4400424F5E /* SegmentedControl + Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SegmentedControl + Extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				B5BC4FE7284B5F7E00424F5E /* UILabel + Extension.swift */,
 				B5BC4FE9284B62E600424F5E /* UIImageView + Extension.swift */,
 				B5BC4FEE284B660200424F5E /* StackView + Extension.swift */,
+				B5BC4FFC284E3F4400424F5E /* SegmentedControl + Extension.swift */,
 			);
 			path = UIKit;
 			sourceTree = "<group>";
@@ -196,6 +199,7 @@
 				B5BC4FFB284CD8DD00424F5E /* AddPhotoView.swift in Sources */,
 				B5BC4FE8284B5F7E00424F5E /* UILabel + Extension.swift in Sources */,
 				B5BC4FEA284B62E600424F5E /* UIImageView + Extension.swift in Sources */,
+				B5BC4FFD284E3F4400424F5E /* SegmentedControl + Extension.swift in Sources */,
 				B5BC4FF1284B663000424F5E /* ButtonFormView.swift in Sources */,
 				B5BC4FE6284B5F2100424F5E /* UIColor + Extension.swift in Sources */,
 				B5BC4FD0284B4AC600424F5E /* SceneDelegate.swift in Sources */,

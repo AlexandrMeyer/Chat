@@ -30,6 +30,10 @@ class AddPhotoView: UIView {
         setupConstraints()
     }
     
+    required init?(coder: NSCoder) {
+        fatalError("init(coder:) has not been implemented")
+    }
+    
     private func setupConstraints() {
         NSLayoutConstraint.activate([
             circleImageView.topAnchor.constraint(equalTo: self.topAnchor, constant: 0),
@@ -47,10 +51,6 @@ class AddPhotoView: UIView {
         
         self.bottomAnchor.constraint(equalTo: circleImageView.bottomAnchor).isActive = true
         self.trailingAnchor.constraint(equalTo: plusButton.trailingAnchor).isActive = true
-    }
-    
-    required init?(coder: NSCoder) {
-        fatalError("init(coder:) has not been implemented")
     }
     
     override func layoutSubviews() {
